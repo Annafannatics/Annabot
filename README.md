@@ -11,7 +11,7 @@ Key Features
 - Conversational Interface: Guided by Anna, a friendly Bourke's parakeet character
 - Design Canvas Creation: Helps users structure problems and prepare them for collaborative solution-finding
 - Role-Based Suggestions: Tailored content for different healthcare roles (nursing, physicians, administration)
-- Medical/Organizational Distinction: Helps clarify where hierarchical expertise is needed versus where collaborative design is beneficial
+- Medical/Organisational Distinction: Helps clarify where medical expertise is needed versus where collaborative design is beneficial
 - Lightweight Implementation: Designed to run locally/offline with minimal resources
 
 Vision
