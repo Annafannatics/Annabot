@@ -1,0 +1,121 @@
+# Mitwirken am Annabot-Projekt
+
+Vielen Dank für dein Interesse, zum Annabot-Projekt beizutragen! Dieses Projekt zielt darauf ab, organisatorische Prozesse im Gesundheitswesen durch bessere Co-Design-Methoden zu verbessern, und wir freuen uns über Beiträge von Menschen mit unterschiedlichem Hintergrund und verschiedenen Fähigkeiten.
+
+## Wer kann mitwirken?
+
+Wir schätzen Beiträge von:
+
+- **Gesundheitsfachleuten** (Pflegekräfte, Ärztinnen und Ärzte, Verwaltungsmitarbeitende usw.)
+- **Entwicklerinnen und Entwicklern** (Frontend, Backend, Full-Stack)
+- **Designerinnen und Designern** (UX/UI, Grafikdesign, Design-Thinking-Expertinnen und -Experten)
+- **Content-Erstellenden** (Dokumentation, Beispiele, Übersetzungen)
+- **Expertinnen und Experten für Organisationswandel**
+- **Allen, die sich für die Verbesserung von Prozessen im Gesundheitswesen begeistern**
+
+Kein Beitrag ist zu klein – sei es die Korrektur eines Tippfehlers in der Dokumentation, der Vorschlag einer Funktion oder das Teilen deiner Erfahrungen im Gesundheitswesen, um das Tool-Design zu informieren.
+
+## Erste Schritte
+
+1. **Mache dich mit dem Projekt vertraut**
+   - Lies die README, um Zweck und Prinzipien von Annabot zu verstehen
+   - Probiere die aktuelle Version des Tools aus, falls verfügbar
+   - Sieh dir offene Issues an, um zu sehen, woran gearbeitet wird
+
+2. **Finde einen Weg zum Mitwirken**
+   - Schau dir [Issues mit dem Label "good first issue"](https://github.com/annafannatics/annabot/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) für anfängerfreundliche Aufgaben an
+   - Schau auf unser [Projekt-Board](https://github.com/annafannatics/annabot/projects), um geplante Features zu sehen
+   - Schlage eine neue Funktion oder Verbesserung basierend auf deiner Erfahrung vor
+
+3. **Richte deine Entwicklungsumgebung ein** (für Code-Beiträge)
+   - Erstelle einen Fork des Repositories
+   - Klone deinen Fork: `git clone https://github.com/DEIN-BENUTZERNAME/annabot.git`
+   - Installiere Abhängigkeiten (spezifische Anweisungen werden hinzugefügt, sobald das Projekt weiter entwickelt ist)
+
+## Arten von Beiträgen
+
+### Für Gesundheitsfachleute
+
+Dein Fachwissen ist unschätzbar wertvoll:
+- Schlage Szenarien vor, in denen Annabot nützlich sein könnte
+- Überprüfe den Design Canvas auf Relevanz für das Gesundheitswesen
+- Teste das Tool in deiner Umgebung und gib Feedback
+- Trage Beispiele für organisatorische Herausforderungen bei
+- Hilf dabei, die Unterscheidung zwischen medizinischen und organisatorischen Entscheidungen zu verfeinern
+
+### Für Entwicklerinnen und Entwickler
+
+Wir befinden uns in frühen Phasen und Technologieentscheidungen sind noch flexibel:
+- Frontend-Entwicklung (HTML, CSS, JavaScript)
+- Implementierung des Konversationsflusses
+- Canvas-Erstellung und Visualisierung
+- Verbesserungen der Barrierefreiheit
+- Testabdeckung
+- Leistungsoptimierung
+
+### Für Designerinnen und Designer
+
+Hilf uns, ein intuitives, ansprechendes Erlebnis zu schaffen:
+- Verfeinere unser Maskottchen Anna, den Bourke-Sittich
+- Gestalte Interface-Elemente
+- Verbessere User Flows
+- Erstelle visuelle Assets für das Projekt
+- Gestalte druckbare Materialien (Poster, Buttons, Karten)
+
+### Für Content-Mitwirkende
+
+Verbessere unsere Dokumentation und Hilfsmaterialien:
+- Schreibe klare, präzise Anleitungen
+- Erstelle Beispiele für verschiedene Gesundheitseinrichtungen
+- Übersetze Inhalte in andere Sprachen
+- Erstelle Tutorials oder Videos
+
+## Mitwirkungsprozess
+
+### Für Nicht-Code-Beiträge
+
+1. **Eröffne ein Issue**, das deinen vorgeschlagenen Beitrag beschreibt
+2. **Diskutiere** mit Maintainern und der Community
+3. **Reiche** deine Materialien ein (über Google Docs, Figma-Links usw., je nach Bedarf)
+4. **Iteriere** basierend auf Feedback
+5. Projektmaintainer werden dir helfen, deinen Beitrag zu integrieren
+
+### Für Code-Beiträge
+
+1. **Erstelle einen Branch** in deinem Fork für deinen Beitrag
+2. **Schreibe deinen Code** gemäß unseren Coding-Standards (werden noch definiert)
+3. **Füge Tests hinzu**, falls zutreffend
+4. **Stelle sicher, dass dein Code** bestehende Tests besteht
+5. **Reiche einen Pull Request ein** mit einer klaren Beschreibung der Änderungen
+6. **Bearbeite Feedback** aus dem Code-Review
+
+## Community-Richtlinien
+
+- **Sei respektvoll** gegenüber unterschiedlichen Standpunkten und Erfahrungen
+- **Akzeptiere konstruktive Kritik** mit Gelassenheit
+- **Konzentriere dich auf das Beste** für die Community und Gesundheitsorganisationen
+- **Verwende einladende und inklusive Sprache**
+- **Respektiere die Privatsphäre im Gesundheitswesen** - teile niemals identifizierbare Patienteninformationen
+
+## Entscheidungsfindung
+
+Das Projekt verwendet derzeit einen von Maintainern gesteuerten Ansatz zur Entscheidungsfindung:
+- Kleine Änderungen können von jedem Maintainer genehmigt werden
+- Größere Änderungen erfordern Diskussion und Konsens
+- Technische Architekturentscheidungen werden kollaborativ getroffen, wenn die Community wächst
+- Wir streben danach, alle wichtigen Entscheidungen mit ihren Begründungen zu dokumentieren
+
+## Anerkennung von Beiträgen
+
+Wir verpflichten uns, alle Arten von Beiträgen anzuerkennen:
+- Alle Mitwirkenden werden in unserer CONTRIBUTORS.md-Datei aufgeführt
+- Bedeutende Beiträge werden in Release Notes hervorgehoben
+- Wir folgen der [All Contributors](https://allcontributors.org/)-Spezifikation
+
+## Fragen?
+
+Wenn du Fragen hast oder Hilfe benötigst, kannst du:
+- Ein Issue auf GitHub eröffnen
+- Die Maintainer kontaktieren (Kontaktinformationen werden noch hinzugefügt)
+
+Vielen Dank, dass du hilfst, Prozesse im Gesundheitswesen durch besseres Design zu verbessern!
