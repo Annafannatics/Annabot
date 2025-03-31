@@ -2,7 +2,7 @@ Annabot
 
 About
 
-Annabot is an interactive, conversation-based tool that helps healthcare staff structure organizational challenges using a design thinking approach. It guides users through completing a Design Canvas, making the process engaging rather than feeling like just another form to fill out.
+Annabot is an interactive, conversation-based tool that helps healthcare staff structure organisational challenges using a Design approach. It guides users through completing a Design Canvas, making the process engaging rather than feeling like just another form to fill out.
 
 The project is part of the Annafannatics initiative, which aims to improve organisational processes in healthcare by applying co-design methodologies that distinguish between medical and organisational decision-making. Medical decisions should clearly be made with the most amount of education and experience. Solutions for problems with services and processes should be made with the users of these services and processes and involve the deep knowledge of the humans on the frontline of our organisations. 
 
@@ -16,9 +16,9 @@ Key Features
 
 Vision
 
-Annabot exists to empower healthcare staff at all levels to initiate positive organizational change without creating dependency on external consultants. By providing a structured yet accessible way to articulate challenges, Annabot facilitates the first critical step in the co-design process.
+Annabot exists to empower healthcare staff at all levels to initiate positive organisational change without creating dependency on external consultants. By providing a structured yet accessible way to articulate challenges, Annabot facilitates the first critical step in the co-design process.
 
-We believe in "Organizational Sovereignty" ("Organisationsmündigkeit") - the principle that organizations should develop the capability to solve their own problems rather than becoming dependent on external gurus.
+We believe in "Organisational Sovereignty" ("Organisationsmündigkeit") - the principle that organisations should develop the capability to solve their own problems rather than becoming dependent on external gurus.
 
 Installation
 
