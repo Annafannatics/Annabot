@@ -1,0 +1,120 @@
+# Contributing to Annabot
+
+Thank you for your interest in contributing to Annabot! This project aims to improve organizational processes in healthcare through better co-design methods, and we welcome contributions from people with diverse backgrounds and skills.
+
+## Who Can Contribute?
+
+We value contributions from:
+
+- **Healthcare professionals** (nurses, doctors, administrators, etc.)
+- **Developers** (front-end, back-end, full-stack)
+- **Designers** (UX/UI, graphic design, design thinking experts)
+- **Content creators** (documentation, examples, translations)
+- **Organizational change experts**
+- **Anyone passionate about improving healthcare processes**
+
+No contribution is too small – whether it's fixing a typo in documentation, suggesting a feature, or sharing your healthcare experience to inform the tool's design.
+
+## Getting Started
+
+1. **Familiarize yourself with the project**
+   - Read the README to understand Annabot's purpose and principles
+   - Try the current version of the tool if available
+   - Review open issues to see what's being worked on
+
+2. **Find a way to contribute**
+   - Check [Issues labeled "good first issue"](https://github.com/annafannatics/annabot/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) for beginner-friendly tasks
+   - Look at our [Project Board](https://github.com/annafannatics/annabot/projects) to see planned features
+   - Propose a new feature or improvement based on your experience
+
+3. **Set up your development environment** (for code contributions)
+   - Fork the repository
+   - Clone your fork: `git clone https://github.com/YOUR-USERNAME/annabot.git`
+   - Install dependencies (specific instructions will be added as the project develops)
+
+## Types of Contributions
+
+### For Healthcare Professionals
+
+Your domain expertise is invaluable:
+- Suggest scenarios where Annabot could be useful
+- Review the Design Canvas for healthcare relevance
+- Test the tool in your environment and provide feedback
+- Contribute examples of organizational challenges
+- Help refine the distinction between medical and organizational decisions
+
+### For Developers
+
+We're in early stages and technology choices are still flexible:
+- Front-end development (HTML, CSS, JavaScript)
+- Conversation flow implementation
+- Canvas creation and visualization
+- Accessibility improvements
+- Test coverage
+- Performance optimization
+
+### For Designers
+
+Help us create an intuitive, engaging experience:
+- Design interface elements
+- Improve user flows
+- Create visual assets for the project
+- Design printable materials (posters, buttons, cards)
+
+### For Content Contributors
+
+Improve our documentation and help materials:
+- Write clear, concise guides
+- Create examples for different healthcare settings
+- Translate content to other languages
+- Create tutorials or videos
+
+## Contribution Process
+
+### For Non-Code Contributions
+
+1. **Open an issue** describing your proposed contribution
+2. **Discuss** with maintainers and community
+3. **Submit** your materials (via Google Docs, Figma links, etc. as appropriate)
+4. **Iterate** based on feedback
+5. Project maintainers will help integrate your contribution
+
+### For Code Contributions
+
+1. **Create a branch** in your fork for your contribution
+2. **Write your code** following our coding standards (to be defined)
+3. **Include tests** if applicable
+4. **Ensure your code passes** existing tests
+5. **Submit a pull request** with a clear description of the changes
+6. **Address feedback** from code review
+
+## Community Guidelines
+
+- **Be respectful** of different viewpoints and experiences
+- **Accept constructive criticism** gracefully
+- **Focus on what's best** for the community and healthcare organizations
+- **Use welcoming and inclusive language**
+- **Respect healthcare privacy** - never share identifiable patient information
+
+## Decision Making
+
+The project currently uses a maintainer-driven approach to decision-making:
+- Small changes can be approved by any maintainer
+- Larger changes require discussion and consensus
+- Technical architecture decisions will be made collaboratively as the community grows
+- We aim to document all significant decisions with their rationales
+
+## Recognizing Contributions
+
+We're committed to recognizing all types of contributions:
+- All contributors will be listed in our CONTRIBUTORS.md file
+- Significant contributions will be highlighted in release notes
+- We follow the [All Contributors](https://allcontributors.org/) specification
+
+## Questions?
+
+If you have any questions or need help, you can:
+- Open an issue on GitHub
+- Contact the maintainers (contact information to be added)
+
+Thank you for helping improve healthcare processes through better design!
