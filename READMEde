@@ -1,0 +1,99 @@
+# Annabot
+
+## Über
+
+Annabot ist ein interaktives, konversationsbasiertes Tool, das Mitarbeitenden im Gesundheitswesen hilft, organisatorische Herausforderungen mit einem Design-Thinking-Ansatz zu strukturieren. Es führt Nutzer durch das Ausfüllen eines Design Canvas und macht den Prozess ansprechend, anstatt sich wie ein weiteres auszufüllendes Formular anzufühlen.
+
+Das Projekt ist Teil der Annafannatics-Initiative, die darauf abzielt, organisatorische Prozesse im Gesundheitswesen durch Co-Design-Methoden zu verbessern, die zwischen medizinischen und organisatorischen Entscheidungen unterscheiden. Medizinische Entscheidungen sollten eindeutig von Personen mit der höchsten Bildung und Erfahrung getroffen werden. Lösungen für Probleme mit Dienstleistungen und Prozessen sollten gemeinsam mit den Nutzern dieser Dienste und Prozesse entwickelt werden und das tiefe Wissen der Menschen an der Front unserer Organisationen einbeziehen.
+
+## Hauptmerkmale
+
+- **Konversationsschnittstelle**: Geführt von Anna, einem freundlichen Bourke-Sittich
+- **Design Canvas Erstellung**: Hilft Nutzern, Probleme zu strukturieren und für kollaborative Lösungsfindung vorzubereiten
+- **Rollenbasierte Vorschläge**: Maßgeschneiderte Inhalte für verschiedene Rollen im Gesundheitswesen (Pflege, Ärzte, Verwaltung)
+- **Medizinische/Organisatorische Unterscheidung**: Hilft zu klären, wo medizinische Expertise benötigt wird und wo kollaboratives Design vorteilhaft ist
+- **Leichtgewichtige Implementierung**: Entwickelt, um lokal/offline mit minimalen Ressourcen zu laufen
+
+## Vision
+
+Annabot existiert, um Mitarbeitende im Gesundheitswesen auf allen Ebenen zu befähigen, positive organisatorische Veränderungen anzustoßen, ohne Abhängigkeiten von externen Beratern zu schaffen. Durch die Bereitstellung einer strukturierten und dennoch zugänglichen Methode zur Artikulation von Herausforderungen erleichtert Annabot den ersten kritischen Schritt im Co-Design-Prozess.
+
+Wir glauben an "Organisationsmündigkeit" - das Prinzip, dass Organisationen die Fähigkeit entwickeln sollten, ihre eigenen Probleme zu lösen, anstatt von externen Gurus abhängig zu werden.
+
+## Installation
+
+*Hinweis: Dieses Projekt befindet sich derzeit in der Entwicklung. Installationsanweisungen werden aktualisiert, sobald das Projekt fortschreitet.*
+
+## Verwendung von Annabot
+
+Annabot führt Nutzer durch das Ausfüllen von sechs Abschnitten des Design Canvas:
+
+1. **Menschen**: Wer ist vom Problem betroffen und wer sollte an der Lösungsfindung beteiligt sein?
+2. **Herausforderung**: Welches spezifische organisatorische Problem muss angegangen werden?
+3. **Bedeutung**: Was wäre die Wirkung einer guten Lösung?
+4. **Vision**: Welche Standards würden eine Lösung erfolgreich machen?
+5. **Umsetzung**: (Für die Führungsebene) Welche Ressourcen werden für den Design-Prozess bereitgestellt?
+6. **Transparenz**: (Für die Führungsebene) Wie werden Personen außerhalb des Prozesses informiert?
+
+Nach Fertigstellung dient der Canvas als strukturiertes Briefing, das der Führungsebene präsentiert werden kann, um Ressourcen für einen richtigen Design-Prozess (wie einen Design Sprint) bereitzustellen.
+
+## Projektstruktur
+
+```
+annabot/
+├── src/              # Quellcode
+├── assets/           # Bilder und statische Ressourcen
+├── docs/             # Dokumentation
+│   ├── canvas/       # Design Canvas Ressourcen
+│   └── examples/     # Beispielanwendungsfälle
+└── tests/            # Testsuite
+```
+
+## Organisationsmündigkeit vs. Guru-Abhängigkeit
+
+Ein Kernprinzip von Annabot ist die Verhinderung des "Guru-Effekts", bei dem externe Berater Abhängigkeit schaffen, anstatt interne Fähigkeiten aufzubauen. Wir werden eine Gemeinschaft von Moderatoren aufbauen, die unsere Werte teilen. Unser Ansatz betont:
+
+- Aufbau organisatorischer Fähigkeiten anstelle externer Abhängigkeit
+- Transparente Prozesse, die Wissen an die Organisation übertragen
+- Messbare Ergebnisse mit Fokus auf erhöhte organisatorische Selbstständigkeit
+- Klare Grenzen zwischen Moderation und Entscheidungsfindung
+
+## Mitwirken
+
+Wir freuen uns über Beiträge von Entwicklern, Designern, Gesundheitsfachleuten und allen, die an der Verbesserung organisatorischer Prozesse im Gesundheitswesen interessiert sind!
+
+Eine Contributions-Datei wird noch erstellt. Schau dort nach Richtlinien, wie du dich beteiligen kannst.
+
+## Entwicklungs-Roadmap
+
+1. **Alpha-Phase**: Grundlegender Konversationsfluss und Canvas-Erstellung (Aktuell)
+2. **Beta-Phase**: Rollenbasierte Inhalte und Beispielbibliothek
+3. **Testphase**: Pilotimplementierungen in Gesundheitseinrichtungen
+4. **Release**: Erste stabile Version mit Dokumentation
+
+## Die Annafannatics-Community
+
+Annabot ist nur ein Teil der Annafannatics-Initiative. Unsere Gemeinschaft bietet:
+
+- Kostenlose, Open-Source-Tools wie Annabot
+- Unterstützung für Design-Moderatoren durch Design-Fürsprache und Standards
+- Moderationsdienstleistungen für Gesundheitsorganisationen
+- Training für interne Moderatoren
+- Ressourcen für die Implementierung von Co-Design im Gesundheitswesen
+
+## Lizenz
+
+Dieses Projekt ist unter der GNU GPL v3-Lizenz lizenziert - siehe die Datei für Details.
+
+## Kontakt
+
+- GitHub: https://github.com/Annafannatics
+- Website: annafannatics.substack.com
+
+## Danksagungen
+
+- Allen Gesundheitsfachleuten, die ihre Erfahrungen und Herausforderungen geteilt haben
+- Dem Design Thinking Canvas von What Could Be https://www.whatcouldbe.com/viewpoints/designthinkingcanvas
+- Der Rust-Community, der 38C3-Community, der Monki Gras-Community
+- Der Open-Source-Community für Inspiration und Unterstützung
+- Allen, die der Annabot-Geschichte zugehört und Feedback gegeben haben
